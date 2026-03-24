@@ -1,7 +1,7 @@
 public class AritmetischeOperatoren {
     static void main() {
         double preis1 = 3.99;
-        double preis2 = 4.99;
+        double preis2 = 5.99;
 
         IO.println("Gesammtpreis= " + (preis1 + preis2));
         IO.println("preis1 - preis2= " + (preis1 - preis2));
