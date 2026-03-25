@@ -17,6 +17,5 @@ public class AritmetischeOperatoren {
         preis1 = (preis1 + 2);
         preis1 += 2;    // funktioniert auch mit  -, *, / , %
 
-
     }
 }
