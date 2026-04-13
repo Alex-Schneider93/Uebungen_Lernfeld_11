@@ -10,7 +10,7 @@ int beiträge;
     }
 
     public User() {
-        this.name = "Unbekant";
+        this.name = "Unbekannt";
         this.beiträge = 0;
 
 
